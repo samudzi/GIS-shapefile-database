@@ -1,0 +1,7 @@
+Notes and resources
+
+1. Find-a-referral type interactivity, see this Mapbox example as a starting point for using Mapbox.js:
+https://www.mapbox.com/help/building-a-store-locator/
+
+2. Clustering, rather than heat maps, for illustrating volume
+https://www.mapbox.com/help/markers/#more-clustering
