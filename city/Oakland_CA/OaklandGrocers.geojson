@@ -1,0 +1,605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2609713,
+                    37.81274989999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Whole Foods Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.29424699999998,
+                    37.805333,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mandela Foods Cooperative",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27586580000002,
+                    37.80088539999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Specialty Foods Inc",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.26495749999998,
+                    37.80273059999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Nature's Best Foods",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.24926920000001,
+                    37.7899553,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Thien Loi Hoa Supermarket",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.21224440000003,
+                    37.7736049,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Mi Pueblo Food Center",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.20451800000001,
+                    37.79687699999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "The Food Mill",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.21119069999997,
+                    37.8275168,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lucky Supermarket",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.252947,
+                    37.8255824,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Piedmont Grocery Co",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2678363,
+                    37.813562,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Koreana Plaza Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.17495250000002,
+                    37.7506937,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Food King",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.28321920000002,
+                    37.84234170000001,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gateway Supermarket Inc",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2678363,
+                    37.813562,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Koreana Plaza Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.24427000000003,
+                    37.809849,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Trader Joe's",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2609713,
+                    37.81274989999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Whole Foods Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27006,
+                    37.800176,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "LG Supermarket",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.25480090000002,
+                    37.7948228,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sun Hop Fat Supermarket",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.25330120000001,
+                    37.7993688,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Lucky",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2516637,
+                    37.7935278,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sun Sang Supermarket",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.17754780000001,
+                    37.7679643,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Gazzali's Supermarket",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2594039,
+                    37.8398846,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Temescal Farmers' Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.251821,
+                    37.843811,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Rockridge Market Hall",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.24772080000002,
+                    37.8110817,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Oakland-Grand Lake Farmers Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2623226,
+                    37.81936019999999,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Sprouts Farmers Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.2678363,
+                    37.813562,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Koreana Plaza Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27609519999999,
+                    37.8009653,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "African Caribbean Food Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.27461299999999,
+                    37.801239,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Old Oakland Farmers' Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.21184979999998,
+                    37.7608595,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Coliseum Public Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.20637299999999,
+                    37.779945,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Island Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.21054520000001,
+                    37.8262288,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "Montclair Farmers' Market",
+                "styleUrl": "#icon-1899-0288D1-nodesc",
+                "styleHash": "-39bf99d0",
+                "styleMapHash": {
+                    "normal": "#icon-1899-0288D1-nodesc-normal",
+                    "highlight": "#icon-1899-0288D1-nodesc-highlight"
+                }
+            }
+        }
+    ]
+}
