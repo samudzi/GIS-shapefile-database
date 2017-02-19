@@ -5,3 +5,10 @@ https://www.mapbox.com/help/building-a-store-locator/
 
 2. Clustering, rather than heat maps, for illustrating volume
 https://www.mapbox.com/help/markers/#more-clustering
+
+3. Converting shp to geojson
+http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/
+
+4. Converting kml to geojson
+https://mapbox.github.io/togeojson/
+https://github.com/mapbox/togeojson
