@@ -1,2 +1,2 @@
 # mapping-public-health
-GeoJSON data for creating maps to support public health efforts
+GeoJSON and shapefile data for creating maps to support public health efforts
