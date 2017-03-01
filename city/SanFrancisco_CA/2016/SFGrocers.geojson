@@ -1,0 +1,798 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4669208,
+                    37.7642616
+                ]
+            },
+            "properties": {
+                "name": "Eight-Twenty-Eight Irving Market, 828 Irving St, San Francisco, CA 94122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4388332,
+                    37.7730569
+                ]
+            },
+            "properties": {
+                "name": "Falletti Foods, 308 Broderick St, San Francisco, CA 94117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4475765,
+                    37.7702177
+                ]
+            },
+            "properties": {
+                "name": "Haight Street Market, 1530 Haight St, San Francisco, CA 94117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.476591,
+                    37.726609
+                ]
+            },
+            "properties": {
+                "name": "Trader Joe's, Stonestown Galleria, 265 Winston Dr, San Francisco, CA 94132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4522998,
+                    37.7447552
+                ]
+            },
+            "properties": {
+                "name": "Mollie Stone's Markets, 635 Portola Dr, San Francisco, CA 94127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4801113,
+                    37.7800395
+                ]
+            },
+            "properties": {
+                "name": "New World Market, 5641 Geary Blvd, San Francisco, CA 94121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4389773,
+                    37.719935
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 4950 Mission St, San Francisco, CA 94112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4117173,
+                    37.7764853
+                ]
+            },
+            "properties": {
+                "name": "Harvest Urban Market, 191 8th St, San Francisco, CA 94103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4192922,
+                    37.7623782
+                ]
+            },
+            "properties": {
+                "name": "Mi Ranchito Produce, 2169 Mission St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4186965,
+                    37.7563737
+                ]
+            },
+            "properties": {
+                "name": "Evergreen Market, 2539 Mission St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4806025,
+                    37.7633011
+                ]
+            },
+            "properties": {
+                "name": "22nd \\u0026 Irving Market, 2101 Irving St, San Francisco, CA 94122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4722849,
+                    37.7430822
+                ]
+            },
+            "properties": {
+                "name": "Parkside Farmer's Market, 555 Taraval St, San Francisco, CA 94116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3940949,
+                    37.776692
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 298 King St, San Francisco, CA 94107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4194795,
+                    37.7645938
+                ]
+            },
+            "properties": {
+                "name": "Mi Tierra Market, 2023 Mission St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4096276,
+                    37.7561065
+                ]
+            },
+            "properties": {
+                "name": "King's Market, 2398 Bryant St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4314956,
+                    37.7827451
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 1335 Webster St, San Francisco, CA 94115"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.450063,
+                    37.73124
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 625 Monterey Blvd, San Francisco, CA 94127"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4125219,
+                    37.754815
+                ]
+            },
+            "properties": {
+                "name": "Local Mission Market, 2670 Harrison St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4166993,
+                    37.7389779
+                ]
+            },
+            "properties": {
+                "name": "Good Life Grocery, 448 Cortland Ave, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4289476,
+                    37.7302891
+                ]
+            },
+            "properties": {
+                "name": "Manila Oriental Market, 4175 Mission St, San Francisco, CA 94112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4841325,
+                    37.7631426
+                ]
+            },
+            "properties": {
+                "name": "Sunset Supermarket, 2425 Irving St, San Francisco, CA 94122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4707783,
+                    37.7643619
+                ]
+            },
+            "properties": {
+                "name": "Andronico's Market, 1200 Irving St, San Francisco, CA 94122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.398449,
+                    37.736397
+                ]
+            },
+            "properties": {
+                "name": "Mike's Market, 2200 Silver Ave, San Francisco, CA 94124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.437463,
+                    37.774798
+                ]
+            },
+            "properties": {
+                "name": "Bi-Rite Market, 550 Divisadero St, San Francisco, CA 94117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.489453,
+                    37.7332613
+                ]
+            },
+            "properties": {
+                "name": "Lucky, 1515 Sloat Blvd, San Francisco, CA 94132"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4889059,
+                    37.7541708
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 2350 Noriega St, San Francisco, CA 94122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4224305,
+                    37.74322
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 3350 Mission St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4830722,
+                    37.782221
+                ]
+            },
+            "properties": {
+                "name": "El Grande Produce, 2214 Clement St, San Francisco, CA 94121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4127492,
+                    37.7639396
+                ]
+            },
+            "properties": {
+                "name": "Gus's Community Market, 2111 Harrison St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4282897,
+                    37.7691129
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 2020 Market St, San Francisco, CA 94114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4049475,
+                    37.7304434
+                ]
+            },
+            "properties": {
+                "name": "San Bruno Supermarket, 2480 San Bruno Ave, San Francisco, CA 94134"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4354116,
+                    37.7671668
+                ]
+            },
+            "properties": {
+                "name": "Courtney Produce, 101 Castro St # A, San Francisco, CA 94114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4292765,
+                    37.768884
+                ]
+            },
+            "properties": {
+                "name": "Golden Natural Foods, 130 Church St, San Francisco, CA 94114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4389496,
+                    37.7435718
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 5290 Diamond Heights Blvd, San Francisco, CA 94131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4741501,
+                    37.7434147
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 730 Taraval St, San Francisco, CA 94116"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4151401,
+                    37.7691251
+                ]
+            },
+            "properties": {
+                "name": "Rainbow Grocery, 1745 Folsom St, San Francisco, CA 94103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4549847,
+                    37.7238578
+                ]
+            },
+            "properties": {
+                "name": "Whole Foods Market, 1150 Ocean Ave, San Francisco, CA 94112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4176454,
+                    37.784659
+                ]
+            },
+            "properties": {
+                "name": "Hiep-Thanh Market, 724 Larkin St, San Francisco, CA 94109"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4654424,
+                    37.7744923
+                ]
+            },
+            "properties": {
+                "name": "Safeway, 735 7th Ave, San Francisco, CA 94118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4180156,
+                    37.7492141
+                ]
+            },
+            "properties": {
+                "name": "Casa Guadalupe, 2999 Mission St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3968529,
+                    37.7601197
+                ]
+            },
+            "properties": {
+                "name": "Good Life Grocery, 1524 20th St, San Francisco, CA 94107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.5043581,
+                    37.7606337
+                ]
+            },
+            "properties": {
+                "name": "Other Avenues Grocery Cooperative, 3930 Judah St, San Francisco, CA 94122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4205392,
+                    37.752244
+                ]
+            },
+            "properties": {
+                "name": "Valencia Farmers Market, 1299 Valencia St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4095454,
+                    37.7669407
+                ]
+            },
+            "properties": {
+                "name": "Safeway, Potrero Center, 2300 16th St #203, San Francisco, CA 94103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.464776,
+                    37.782736
+                ]
+            },
+            "properties": {
+                "name": "101 Supermart, 517 Clement St, San Francisco, CA 94118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4690251,
+                    37.7806354
+                ]
+            },
+            "properties": {
+                "name": "First Korean Market, 4625 Geary Blvd, San Francisco, CA 94118"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4363652,
+                    37.7606269
+                ]
+            },
+            "properties": {
+                "name": "Mollie Stone's Markets, 4201 18th St, San Francisco, CA 94114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.504861,
+                    37.752805
+                ]
+            },
+            "properties": {
+                "name": "Noriega Produce, 3821 Noriega St, San Francisco, CA 94122"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3997146,
+                    37.7810638
+                ]
+            },
+            "properties": {
+                "name": "Whole Foods Market, 399 4th St, San Francisco, CA 94107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.430905,
+                    37.751965
+                ]
+            },
+            "properties": {
+                "name": "Whole Foods Market, 3950 24th St, San Francisco, CA 94114"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4336642,
+                    37.7340776
+                ]
+            },
+            "properties": {
+                "name": "Canyon Market, 2815 Diamond St, San Francisco, CA 94131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4137045,
+                    37.746769
+                ]
+            },
+            "properties": {
+                "name": "Harvest Hills Market, 3216 Folsom St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4278036,
+                    37.7763828
+                ]
+            },
+            "properties": {
+                "name": "Hayes Market, 698 Hayes St, San Francisco, CA 94102"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4529142,
+                    37.7695219
+                ]
+            },
+            "properties": {
+                "name": "Whole Foods Market, 690 Stanyan St, San Francisco, CA 94117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.3897953,
+                    37.7366683
+                ]
+            },
+            "properties": {
+                "name": "Super Save Market, 4517 3rd St, San Francisco, CA 94124"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4875987,
+                    37.7796711
+                ]
+            },
+            "properties": {
+                "name": "Grocery Outlet Bargain Market, 6333 Geary Blvd, San Francisco, CA 94121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4350935,
+                    37.7245364
+                ]
+            },
+            "properties": {
+                "name": "El Chico Produce, 4600 Mission St, San Francisco, CA 94112"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4087385,
+                    37.7530244
+                ]
+            },
+            "properties": {
+                "name": "Five Markets, 2824 24th St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.424711,
+                    37.761345
+                ]
+            },
+            "properties": {
+                "name": "Bi-Rite Market, 3639 18th St, San Francisco, CA 94110"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4847412,
+                    37.7821541
+                ]
+            },
+            "properties": {
+                "name": "25th \\u0026 Clement Produce Market, 2354 Clement St, San Francisco, CA 94121"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -122.4106931,
+                    37.7528007
+                ]
+            },
+            "properties": {
+                "name": "Casa Lucas Market, 2934 24th St, San Francisco, CA 94110"
+            }
+        }
+    ]
+}

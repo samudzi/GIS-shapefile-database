@@ -1,0 +1,1223 @@
+<metadata xsi:noNamespaceSchemaLocation="http://www.fgdc.gov/metadata/fgdc-std-001-1998.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>US Environmental Protection Agency, Office of Water</origin>
+				<pubdate>20100318</pubdate>
+				<title>EPA Office of Water (OW): Water Quality Standards NHD Indexed Dataset</title>
+				<edition>20071201</edition>
+				<geoform>vector digital data</geoform>
+				<pubinfo>
+					<pubplace>Washington, DC</pubplace>
+					<publish>U.S. Environmental Protection Agency</publish>
+				</pubinfo>
+				<onlink>http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD/ALL_OWRAD_NAD83/MapServer/</onlink>
+				<onlink>http://www.epa.gov/waters/data/downloads.html</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>The Water Quality Standards (WQS) dataset contains three types of Reach Addressing Database (RAD) spatial layers: points, lines, polygons and information on events that have been referenced to the National Hydrography Dataset (NHD). State (also includes DC, tribes, and territories; i.e., "jurisdictions") Water Quality Standards' Designated Uses for river segments, lakes, and estuaries. The Water Quality Standards' Designated Uses are able to be linked to tables of water quality criteria which are located in EPA's Water Quality Standards Database. Water Quality Standards events are indexed onto National Hydrography Dataset (NHD) reaches to create NHD area, linear and point events. Point events are attached to a reach in NHD for many reasons: to represent an estuary; represent a drinking water intake point; or to represent a designated use when there is no reachcode in the NHD to represent that feature. In addition to NHD reach indexed data there may also be custom events (point, line, or polygon) that are not associated with the medium resolution NHD and are in an EPA standard format that is compatible with EPA's Reach Address Database. These custom datafiles are used to represent Water Quality Standards that are not represented well or at all in the NHD.</abstract>
+			<purpose>To be used to identify the spatial extent of waters listed under State Water Quality Standards. These waters can be linked to EPA's Water Quality Standards Database for query and display.</purpose>
+			<supplinf>Procedures Used: From time to time beginning with initial publication, selected State Water Quality Agencies supply EPA's Office of Water with lists of waters with Designated Uses under State Water Quality Standards. These lists contain text which identify the locations of individual waters on their list. Many states also submit GIS coverages and or maps that outlined the spatial extent of their listed waters. These base materials are used by EPA to code the spatial extent onto NHD reach features to create NHD Area, Linear and Point Events. These event tables are then sent to each state for review and comment. The format of the reviewed data are state dependent. Formats consist of hardcopy maps, data files or coverages with events. Revisions: Initial indexing is done and maps sent back to the state for review. In many cases, modifications are noted by the State and then corrections are made by EPA contractors. These corrected event tables are then sent to each state for re-review and comment, or if correct, approval for display on the internet.</supplinf>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>20071201</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>None Planned</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-125</westbc>
+				<eastbc>-64</eastbc>
+				<northbc>50</northbc>
+				<southbc>17</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>designated uses</themekey>
+				<themekey>reach indexing</themekey>
+			</theme>
+			<theme>
+				<themekt>ISO 19115 Topic Category</themekt>
+				<themekey>environment</themekey>
+				<themekey>inlandWaters</themekey>
+			</theme>
+			<place>
+				<placekt>None</placekt>
+				<placekey>US</placekey>
+				<placekey>National</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the EPA would be appreciated.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Bill Kramer</cntper>
+					<cntorg>U.S. Environmental Protection Agency, Headquarters</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>1201 Pennsylvania Avenue, NW EPA East</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20460</postal>
+				</cntaddr>
+				<cntvoice>202-564-0385</cntvoice>
+				<cntemail>kramer.bill@epa.gov</cntemail>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secsys>FIPS Pub 199</secsys>
+			<secclass>No Confidentiality</secclass>
+			<sechandl>Standard Technical Controls</sechandl>
+		</secinfo>
+		<native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</native></idinfo>
+	<dataqual>
+		<logic>Chain-node topology present</logic>
+		<complete>State review underway.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>Statements of horizontal positional accuracy are based on accuracy statements made for USGS topographic quadrangle maps. These maps were compiled to meet National Map Accuracy Standards. For horizontal accuracy, this standard is met if at least 90 percent of points tested are within 0.02 inch (at map scale) of their true positions. Additional offsets to positions may have been introduced where there are many features to improve the legibility of map symbols. In addition, the digitizing of maps is estimated to contain a horizontal positional error of less than or equal to 0.003-inch standard error (at map scale) in the two component directions relative to the source maps. Visual comparison between the map graphic (including digital scans of the graphic) and plots or digital displays of points, lines, and areas is used to assess the positional accuracy of digital data. Linear features of the same type along the adjoining edges of data sets are aligned if they are within a 0.02-inch tolerance (at map scale). To align the features, the midpoint between the end of the corresponding features is computed, and the ends of features are moved to this point. Features outside the tolerance are not moved; instead, a feature of the type connector was added to join the features. For more information, see the National Hydrography Dataset Concepts andContents document (February 2000) available at &lt;http://nhd.usgs.gov/chapter1/index.html&gt;.</horizpar>
+			</horizpa>
+			<vertacc>
+				<vertaccr>Statements of vertical positional accuracy for elevation of water surfaces are based on accuracy statements made for USGS topographic quadrangle maps. These maps were compiled to meet National Map Accuracy Standards. For vertical accuracy, this standard is met if at least 90 percent of well-defined points tested are within one-half contour interval of the correct value. Elevations of water surface printed on the published map meet this standard;the contour intervals of the maps vary. These elevations were transcribed into the digital data; the accuracy of this transcription was checked by visual comparison between the data and the map. For more information, see the National Hydrography Dataset Concepts and Contents document (February 2000) available at &lt;http://nhd.usgs.gov/chapter1/index.html&gt;.</vertaccr>
+			</vertacc>
+		</posacc>
+		<lineage>
+			<procstep>
+				<procdesc>Selected states send EPA contractors a marked up map or existing GIS coverage denoting the location and extent of each waterbody. Using the EPA's NHD Reach Indexing Tool, event tables are created by conflating the each State's data to medium resolution NHD. Event identifiers are populated with State-provided designated use waterbody codes.</procdesc>
+				<procdate>20071201</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>WQS Data Migrated to RAD 3.1 format</procdesc>
+				<procdate>20080305</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>WQS Data Migrated to RAD 3.2 format</procdesc>
+				<procdate>20100201</procdate>
+			</procstep>
+			<procstep>
+				<procdesc>National Extract Created</procdesc>
+				<procdate>20100318</procdate>
+			</procstep>
+			<procstep><procdesc>Metadata imported.</procdesc><srcused>C:\SVN_\branches\WATERS\WATERSMetadata_Workshop\ISO19115\DB\RAD_NHD\RAD_WQS.xml</srcused><procdate>20100805</procdate><proctime>07323400</proctime></procstep><procstep><procdesc Sync="TRUE">Dataset copied.</procdesc><srcused Sync="TRUE">C:\esri_dump\rad_wqs_20100318\rad_wqs_evt2meta</srcused><procdate Sync="TRUE">20100806</procdate><proctime Sync="TRUE">07383400</proctime></procstep></lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<geograph>
+				<latres>0.000001</latres>
+				<longres>0.000001</longres>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 1980</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<detailed>
+			<enttyp>
+				<enttypl>WQS_P</enttypl>
+				<enttypd>Point Event Table</enttypd>
+				<enttypds>RAD</enttypds>
+			</enttyp>
+			<attr><attrlabl>OID</attrlabl><attrdef>Internal feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl>DUUID</attrlabl></attr><attr>
+				<attrlabl>COMID</attrlabl>
+				<attrdef>Unique event identifier for the event record.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>WQS_L</enttypl>
+				<enttypd>Line Event Table</enttypd>
+				<enttypds>RAD</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>COMID</attrlabl>
+				<attrdef>Unique event identifier for the event record.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>EVENTDATE</attrlabl>
+				<attrdef>The date the event was created or updated.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>EVENTTYPE</attrlabl>
+				<attrdef>Program abbreviation to which the data belongs.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Program Abbreviation</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REACHCODE</attrlabl>
+				<attrdef>NHD linear reach code: a numeric code that uniquely identifies a reach. This 14 digit code has two parts: the first eight digits are the HUC for the sub-basin in which the reach is located; the last six digits are a sequentially-ordered randomly assigned number</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>This 14 digit code has two parts: the first eight digits are the HUC for the sub-basin in which the reach is located; the last six digits are a sequentially-ordered randomly assigned number</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REACHSMDATE</attrlabl>
+				<attrdef>Date that the reach code was assigned</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REACHRESOLUTION</attrlabl>
+				<attrdef>Numeric code indicating the resolution of the NHD used in indexing.</attrdef>
+				<attrdefs>NHD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2</rdommin>
+						<rdommax>3</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FEATURECOMID</attrlabl>
+				<attrdef>Identifier for the NHD feature the event is associated with.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FEATURECLASSREF</attrlabl>
+				<attrdef>Domain value indicating the type of NHD feature the event is associated with.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Unknown USGS domain values</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCE_ORIGINATOR</attrlabl>
+				<attrdef>The organization responsible for the submission of the data. In most cases this is a state abbreviation.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Organization Abbreviation.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCE_DATADESC</attrlabl>
+				<attrdef>Supplemental data relevant to the event.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Supplemental Data</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCE_FEATUREID</attrlabl>
+				<attrdef>Key field linking the RAD event to source program data.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Code of varied formats no more than 60 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FEATUREDETAILURL</attrlabl>
+				<attrdef>Http link leading to online resources with further information about the event.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Http internet link.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OFFSET</attrlabl>
+				<attrdef>Event display offset</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Event display offset</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FMEASURE</attrlabl>
+				<attrdef>Linear from measure</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TMEASURE</attrlabl>
+				<attrdef>Linear to measure</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE_LENGTH</attrlabl>
+				<attrdef>Length of linear event in meters</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0.00001</rdommin>
+						<rdommax>999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>GEOGSTATE</attrlabl>
+				<attrdef>State abbreviation</attrdef>
+				<attrdefs>U.S. Postal Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official USPS state abbreviations, as shown in Publication 65, National 5-Digit ZIP Code and Post Office Directory</codesetn>
+						<codesets>U.S. Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CYCLE_YEAR</attrlabl>
+				<attrdef>Cycle year of data</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1998</rdommin>
+						<rdommax>9999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>START_DATE</attrlabl>
+				<attrdef>Start date of data</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>4/1/1998</rdommin>
+						<rdommax>4/2/2100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>END_DATE</attrlabl>
+				<attrdef>End date of data</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>4/1/1998</rdommin>
+						<rdommax>4/2/2100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WBD_HUC12</attrlabl>
+				<attrdef>WBD HUC12 unit that most encompasses the NHD feature</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>12-digit numeric code</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WBD_HUC12_PERCENT</attrlabl>
+				<attrdef>Percentage of the feature contained within the WBD12 unit</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>0.999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>NAVIGABLE</attrlabl>
+				<attrdef>Flag indicating whether an event occurs on an NHD flowline which may be navigated using NHDPlus tools.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>This field is automatically filled out during event maintenance.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>VERTICES</attrlabl>
+				<attrdef>Numeric count of individual vertices in the Event feature.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>524288</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>ArcSDE managed geometry type</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Geometry Object</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>ArcSDE managed numeric key</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>2147483647</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>WQS_A</enttypl>
+				<enttypd>Area Event Table</enttypd>
+				<enttypds>RAD</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>COMID</attrlabl>
+				<attrdef>Unique event identifier for the event record.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>EVENTDATE</attrlabl>
+				<attrdef>The date the event was created or updated.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>EVENTTYPE</attrlabl>
+				<attrdef>Program abbreviation to which the data belongs.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Program Abbreviation</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REACHCODE</attrlabl>
+				<attrdef>NHD linear reach code: a numeric code that uniquely identifies a reach. This 14 digit code has two parts: the first eight digits are the HUC for the sub-basin in which the reach is located; the last six digits are a sequentially-ordered randomly assigned number</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>This 14 digit code has two parts: the first eight digits are the HUC for the sub-basin in which the reach is located; the last six digits are a sequentially-ordered randomly assigned number</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REACHSMDATE</attrlabl>
+				<attrdef>Date that the reach code was assigned</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>REACHRESOLUTION</attrlabl>
+				<attrdef>Numeric code indicating the resolution of the NHD used in indexing.</attrdef>
+				<attrdefs>NHD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2</rdommin>
+						<rdommax>3</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FEATURECOMID</attrlabl>
+				<attrdef>Identifier for the NHD feature the event is associated with.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FEATURECLASSREF</attrlabl>
+				<attrdef>Domain value indicating the type of NHD feature the event is associated with.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Unknown USGS domain values</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCE_ORIGINATOR</attrlabl>
+				<attrdef>The organization responsible for the submission of the data. In most cases this is a state abbreviation.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Organization Abbreviation.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCE_DATADESC</attrlabl>
+				<attrdef>Supplemental data relevant to the event.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Supplemental Data</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCE_FEATUREID</attrlabl>
+				<attrdef>Key field linking the RAD event to source program data.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Code of varied formats no more than 60 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>FEATUREDETAILURL</attrlabl>
+				<attrdef>Http link leading to online resources with further information about the event.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Http internet link.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>GEOGSTATE</attrlabl>
+				<attrdef>State abbreviation</attrdef>
+				<attrdefs>U.S. Postal Service</attrdefs>
+				<attrdomv>
+					<codesetd>
+						<codesetn>Official USPS state abbreviations, as shown in Publication 65, National 5-Digit ZIP Code and Post Office Directory</codesetn>
+						<codesets>U.S. Postal Service</codesets>
+					</codesetd>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CYCLE_YEAR</attrlabl>
+				<attrdef>Cycle year of data</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2002</rdommin>
+						<rdommax>9999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>START_DATE</attrlabl>
+				<attrdef>Start date of data</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>4/1/1998</rdommin>
+						<rdommax>4/1/2100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>END_DATE</attrlabl>
+				<attrdef>End date of data</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>4/1/1998</rdommin>
+						<rdommax>4/1/2100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WBD_HUC12</attrlabl>
+				<attrdef>WBD HUC12 unit that most encompasses the NHD feature</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>12-digit numeric code</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>WBD_HUC12_PERCENT</attrlabl>
+				<attrdef>Percentage of the feature contained within the WBD12 unit</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>0.999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>VERTICES</attrlabl>
+				<attrdef>Numeric count of individual vertices in the Event feature.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>524288</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SHAPE</attrlabl>
+				<attrdef>ArcSDE managed geometry type</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<udom>Geometry Object</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>ArcSDE managed numeric key</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>2147483647</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>WQS_EVT2META</enttypl>
+				<enttypd>Event2Metadata Table</enttypd>
+				<enttypds>RAD</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>DUUID</attrlabl>
+				<attrdef>Unique event identifier for the event metadata record.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>COMID</attrlabl>
+				<attrdef>Unique event identifier for the event feature record.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>ArcSDE managed numeric key</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>2147483647</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>WQS_M</enttypl>
+				<enttypd>Event Metadata Table</enttypd>
+				<enttypds>RAD</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>DUUID</attrlabl>
+				<attrdef>Unique event identifier for the event metadata record.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PROCESSDESCRIPTION</attrlabl>
+				<attrdef>Process used to create the event data.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Explanation of the process used to create the data, including parameters or tolerances.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PROCESSDATE</attrlabl>
+				<attrdef>Date when the data was completed.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>4/1/1998</rdommin>
+						<rdommax>4/1/2100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ATTRIBUTEACCURACYREPORT</attrlabl>
+				<attrdef>Explanation of entities and assignments of values in dataset.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 1800 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LOGICALCONSISTENCYREPORT</attrlabl>
+				<attrdef>Explanation of fidelity and relationships in dataset, and tests used.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 1000 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>COMPLETENESSREPORT</attrlabl>
+				<attrdef>Information about omissions, criteria, definitions used to derive dataset.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 2400 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>HORIZPOSITIONALACCURACYREPORT</attrlabl>
+				<attrdef>Horizontal coordinate measurements and description of test used.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 3100 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>VERTPOSITIONALACCURACYREPORT</attrlabl>
+				<attrdef>Vertical coordinate measurements and description of test used.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 3100 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>METADATASTANDARDNAME</attrlabl>
+				<attrdef>Name of the metadata standard used to document the dataset.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 100 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>METADATASTANDARDVERSION</attrlabl>
+				<attrdef>Identification of the version of the metadata standard used to document it.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 40 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>METADATADATE</attrlabl>
+				<attrdef>Date the metadata was last created or updated.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DATASETCREDIT</attrlabl>
+				<attrdef>Recognition of those who contributed to the dataset.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 4000 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CONTACTORGANIZATION</attrlabl>
+				<attrdef>Name or organization to which type of contact applies.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 100 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ADDRESSTYPE</attrlabl>
+				<attrdef>Information provided about the address, i.e. mailing, physical, etc.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 40 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ADDRESS</attrlabl>
+				<attrdef>Address line for the address.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 100 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CITY</attrlabl>
+				<attrdef>City of the address.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 40 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>STATEORPROVINCE</attrlabl>
+				<attrdef>State or province of the address.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 30 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POSTALCODE</attrlabl>
+				<attrdef>ZIP or other postal code of the address.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 20 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CONTACTVOICETELEPHONE</attrlabl>
+				<attrdef>Telephone number to reach organization or individual.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 40 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CONTACTINSTRUCTIONS</attrlabl>
+				<attrdef>Supplemental instructions to contact organization or individual.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 120 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CONTACTEMAILADDRESS</attrlabl>
+				<attrdef>Email address to reach organization or individual.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 40 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>ArcSDE managed numeric key</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>2147483647</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>WQS_SRCCIT</enttypl>
+				<enttypd>Source Citation Metadata</enttypd>
+				<enttypds>RAD</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>TITLE</attrlabl>
+				<attrdef>Name by which the dataset is known.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 255 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCECITATIONABBREVIATION</attrlabl>
+				<attrdef>Short form alias for source citation.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 255 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ORIGINATOR</attrlabl>
+				<attrdef>Name of organization or individual who developed the dataset.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 400 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>PUBLICATIONDATE</attrlabl>
+				<attrdef>Date the dataset is published or made available for release.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>BEGINNINGDATE</attrlabl>
+				<attrdef>First year of the event (if range of dates applies).</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>ENDINGDATE</attrlabl>
+				<attrdef>Last year of the event (if range of dates applies).</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCECONTRIBUTION</attrlabl>
+				<attrdef>Brief statement identifying information contributed by source to dataset.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 255 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCESCALEDENOMINATOR</attrlabl>
+				<attrdef>Denomination of representative fraction on a map.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Numeric scale value.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>TYPEOFSOURCEMEDIA</attrlabl>
+				<attrdef>The medium of the source dataset, i.e. paper, CD-ROM, online, etc.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 255 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CALENDARDATE</attrlabl>
+				<attrdef>The year (if single date applies).</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Date value.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCECURRENTNESSREFERENCE</attrlabl>
+				<attrdef>The basis on which the source time period of content information of the source data set is determined.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>String value no more than 255 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>DUUID</attrlabl>
+				<attrdef>Unique event identifier for the event metadata record.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>ArcSDE managed numeric key</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>2147483647</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+		<detailed>
+			<enttyp>
+				<enttypl>WQS_SFID</enttypl>
+				<enttypd>Source Feature ID Summary Table</enttypd>
+				<enttypds>RAD</enttypds>
+			</enttyp>
+			<attr>
+				<attrlabl>SOURCE_FEATUREID</attrlabl>
+				<attrdef>Key field linking the RAD event to source program data.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Code of varied formats no more than 60 characters in length.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>SOURCE_ORIGINATOR</attrlabl>
+				<attrdef>The organization responsible for the submission of the data. In most cases this is a state abbreviation.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<udom>Organization Abbreviation.</udom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>CYCLE_YEAR</attrlabl>
+				<attrdef>Cycle year of data</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>2002</rdommin>
+						<rdommax>9999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>START_DATE</attrlabl>
+				<attrdef>Start date of data</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>4/1/1998</rdommin>
+						<rdommax>4/1/2100</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>EVENT_COUNT</attrlabl>
+				<attrdef>Count of RAD events having this source feature id.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>POINT_COUNT</attrlabl>
+				<attrdef>Total count of point events for the source feature id.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>LINE_LENGTHM</attrlabl>
+				<attrdef>Total length in meters of line events for the source feature id.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>AREA_AREASQKM</attrlabl>
+				<attrdef>Total area in square kilometers of area events for the source feature id.</attrdef>
+				<attrdefs>RAD</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>0</rdommin>
+						<rdommax>999999999999</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+			<attr>
+				<attrlabl>OBJECTID</attrlabl>
+				<attrdef>ArcSDE managed numeric key</attrdef>
+				<attrdefs>ESRI</attrdefs>
+				<attrdomv>
+					<rdom>
+						<rdommin>1</rdommin>
+						<rdommax>2147483647</rdommax>
+					</rdom>
+				</attrdomv>
+			</attr>
+		</detailed>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>US EPA Headquarters</cntorg>
+					<cntper>Office of Water</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>1200 Pennsylvania Avenue, NW MC 4503T</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20460</postal>
+				</cntaddr>
+				<cntvoice>202-566-0385</cntvoice>
+				<cntemail>kramer.bill@epa.gov</cntemail>
+			</cntinfo>
+		</distrib>
+		<resdesc>Live Data and Maps</resdesc>
+		<distliab>Although these data have been processed successfully on a computer system at the Environmental Protection Agency, no warranty expressed or implied is made regarding the accuracy or utility of the data on any other system or for general or scientific purposes, nor shall the act of distribution constitute any such warranty. It is strongly recommended that careful attention be paid to the contents of the metadata file associated with these data to evaluate data set limitations, restrictions or intended use. The U.S. Environmental Protection Agency shall not be held liable for improper or incorrect use of the data described and/or contained herein.</distliab>
+		<stdorder>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<formcont>National Shapefiles - These static files reflect the information in the NHD Reach Address Database (RAD) on the date of extract.</formcont>
+					<filedec>Zipped (compressed) file</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://www.epa.gov/waters/data/downloads.html</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>Shapefile</formname>
+					<formcont>These spatial files represent the most up-to-date publicly available Water program data by State or Watershed from the Reach Address Database (RAD).</formcont>
+					<filedec>Zip (compressed) file</filedec>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://epamap32.epa.gov/radims/</networkr>
+							</networka>
+						</computer>
+						<accinstr>The RAD data downloaded from this page are delivered in zipped (compressed) shapefile format. Links to metadata are also provided.</accinstr>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ArcGIS Server Map Service</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD/ALL_OWRAD_NAD83/MapServer/</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ArcGIS Server WMS Service</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://watersgeo.epa.gov/ArcGIS/services/OWRAD/ALL_OWRAD_NAD83/MapServer/WMSServer?request=GetCapabilities&amp;service=WMS</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ArcGIS Server WFS Service</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://watersgeo.epa.gov/ArcGIS/services/OWRAD/ALL_OWRAD_NAD83/MapServer/WFSServer?request=GetCapabilities&amp;service=WFS</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ArcGIS Server KML Service</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD/WQS_WMERC/MapServer</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ArcGIS Server REST interface</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://watersgeo.epa.gov/ArcGIS/rest/services/OWRAD/ALL_OWRAD_NAD83/MapServer?f=json&amp;pretty=true</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<digform>
+				<digtinfo>
+					<formname>ArcGIS Server SOAP interface</formname>
+				</digtinfo>
+				<digtopt>
+					<onlinopt>
+						<computer>
+							<networka>
+								<networkr>http://watersgeo.epa.gov/ArcGIS/services/OWRAD/ALL_OWRAD_NAD83/MapServer?wsdl</networkr>
+							</networka>
+						</computer>
+					</onlinopt>
+				</digtopt>
+			</digform>
+			<fees>None</fees>
+		</stdorder>
+	</distinfo>
+	<metainfo>
+		<metd>20071201</metd>
+		<metfrd>20111101</metfrd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Office of Water</cntper>
+					<cntorg>US EPA Headquarters</cntorg>
+				</cntperp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>1200 Pennsylvania Avenue, NW MC 4503T</address>
+					<city>Washington</city>
+					<state>DC</state>
+					<postal>20460</postal>
+				</cntaddr>
+				<cntvoice>202-566-0385</cntvoice>
+				<cntemail>kramer.bill@epa.gov</cntemail>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+	</metainfo>
+	<dataIdInfo><envirDesc>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.3.1.4000</envirDesc><dataLang><languageCode value="en"/></dataLang><idCitation><resTitle>rad_wqs_evt2meta</resTitle><presForm><PresFormCd value="011"/></presForm></idCitation></dataIdInfo><mdLang><languageCode value="en"/></mdLang><mdStanName>ISO 19115 Geographic Information - Metadata</mdStanName><mdStanVer>DIS_ESRI1.0</mdStanVer><mdChar><CharSetCd value="004"/></mdChar><mdHrLv><ScopeCd value="005"/></mdHrLv><mdHrLvName>dataset</mdHrLvName><distInfo><distributor><distorTran><onLineSrc><orDesc>002</orDesc><linkage>file://\\HXPWP-PDZIEMIEL\esri_dump\rad_wqs_20100318\rad_wqs_evt2meta.dbf</linkage><protocol>Local Area Network</protocol></onLineSrc><transSize>0.000</transSize></distorTran><distorFormat><formatName>dBASE Table</formatName></distorFormat></distributor></distInfo><mdDateSt>20100806</mdDateSt></metadata>
