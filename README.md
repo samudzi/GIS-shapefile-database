@@ -1,7 +1,7 @@
 # Mapping Public Health
 This repository contains a collection of GeoJSON and shapefile data for creating maps to support public health efforts.  The data has been obtained from a wide range of sources, including various US Federal gov't departments (Census Bureau, EPA, CMS, BLS) as well as state, county, and municipal governments.
 
-Currently, GIS data is currently spread out across the web.  For people seeking to apply this data for public health analysis, data acquisition - rather than analysis and presentation - is a tenuous and time consuming process.  The goal of this repository is to centralize GIS elements that are commonly used for public health analysis to make it easier for developers and other organizations to do the actual work of visualizing and solving the major public health issues of today.
+Currently, GIS data is currently spread out across the web.  For people seeking to apply this data for public health analysis, data acquisition is a tenuous and time consuming process.  The goal of this repository is to centralize GIS elements that are commonly used for public health analysis to make it easier for developers and other organizations to do the actual work of visualizing and solving the major public health issues of today.
 
 
 ## Contributing
