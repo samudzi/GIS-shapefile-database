@@ -6,7 +6,15 @@ Currently, GIS data is currently spread out across the web.  For people seeking 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md] for details on how you can contribute, and the process for submitting pull requests to us.
+The data is organized by granularity (national, regional, state, county, or city) and then by year of publication.  For example, for a dataset on 2015 Medicare utilization by county within the state of Nevada:
+
+```
+/Nevada/2015/Medicare_utilization.shp
+```
+
+Other than a descriptive name for the dataset, there is no set naming convention.
+
+The only requirement for contributing is that the data must reflect a good faith effort at accuracy and completeness.  So for example, a dataset titled "US county lines" that is missing counties would not be acceptable, since a complete dataset is easily available.  You must also have proper license to share any datasets you intend to contribute.
 
 
 ## Getting Started
