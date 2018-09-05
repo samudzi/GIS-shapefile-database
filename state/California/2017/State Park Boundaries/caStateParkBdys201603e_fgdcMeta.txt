@@ -1,0 +1,435 @@
+﻿<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>CSP Enterprise GIS Team</origin>
+        <origin>CSP Northern Service Center; Acquisition and Real Property Services Division</origin>
+        <origin>CSP Surveys Section</origin>
+        <pubdate>20160329</pubdate>
+        <title>caStPrkBdys2016e</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Unpublished work ©2014, 2015, 2016 California State Parks, all rights reserved. For permission, email geodata@parks.ca.gov. All materials contained herein are protected by the United States Copyright Law and may not be reproduced, shared, sold, distributed, transmitted, displayed, repackaged, published or otherwise transferred without the prior written permission of California State Parks. You may not alter or remove any trademark, copyright or other notice from copies of the content. This material is provided for your personal, non-commercial use only. Data Disclaimer: "Every reasonable effort has been made to assure the accuracy of the data provided, however, California State Parks and its employees and agents disclaim any and all responsibility from or relating to any results obtained in its use. The GIS database and data in the product are subject to change and the accuracy and completeness cannot be and is not guaranteed. CALIFORNIA STATE PARKS MAKES NO WARRANTIES OR GUARANTEES, EITHER EXPRESSED OR IMPLIED AS TO THE COMPLETENESS, ACCURACY, OR CORRECTNESS OF SUCH PRODUCT, NOR ACCEPTS ANY LIABILITY, ARISING FROM ANY INCORRECT, INCOMPLETE OR MISLEADING INFORMATION CONTAINED THEREIN. California State Parks (CSP) are also known as the California Department of Parks and Recreation (DPR).</othercit>
+        <onlink>under revision</onlink>
+        <lworkcit>
+          <citeinfo>
+            <othercit>All products that use these data must include the following disclaimer: Disclaimer: "Parcel boundaries are approximate and should not be considered legal descriptions. Maps are intended for study purposes only."</othercit>
+          </citeinfo>
+        </lworkcit>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Boundaries of California State Park Units and Properties as of July 1, 2015. This dataset does not represent official property boundary determinations. This is a publicly-downloadable version intended for general reference, planning, and/or use in studies. Park unit and subunit names, classifications, management status, and administrative codes are under continuous revision and subject to change. Unit and Subunit names, management status, and administrative codes are in effect beginning in the State of California Fiscal Year of release. Download from http://www.parks.ca.gov/pages/862/files/caStateParkBdysMapLinks201603e.zip.  Monitor www.parks.ca.gov for the latest information.</abstract>
+      <purpose>California State Park boundaries for general reference and not for official or legal property boundary determination or description.</purpose>
+      <supplinf>This version of California State Park (CSP) boundaries is for public download. California State Park System Unit names and the names of their included Subunits are tabulated below, along with classification abbreviations and numeric, administrative codes in parentheses. The names are official beginning in the State of California Fiscal Year of their release. CSP names, codes, and the relationships among units and subunits are subject to change. Monitor www.parks.ca.gov for the most current information about California State Parks. California State Park System classification abbreviations are: State Park (SP) State Historic Park (SHP) State Recreation Area (SRA) State Beach (SB) State Vehicular Recreation Area (SVRA) State Natural Reserve (SNR) Wayside Campground (WC) State Marine Park (SMP) State Seashore (SS) State Marine Reserve (SMR) --SubUnit abbreviations: Natural Preserve (NP) Cultural Preserve (CP) State Wilderness (SW) Unit Name (Unit Number) -- SubUnit Name (Number) ------------------------------------------------ Admiral William Standley SRA (118) Ahjumawi Lava Springs SP (190) Albany (223) Anderson Marsh SHP (701) -- Anderson Marsh NP (970) Andrew Molera SP (491) Angel Island SP (231) Annadel SP (246) Año Nuevo SP (222) -- Año Nuevo Coast NP (228) -- Quiroste Valley CP (232) Antelope Valley California Poppy Reserve (SNR) (560) Antelope Valley Indian Museum SHP (579) Anza-Borrego Desert SP (622) -- Angelina Spring CP (628) -- Anza-Borrego Desert SW (624) -- Coyote Canyon CP (613) -- Culp Valley CP (620) -- Hawi-Vallecito CP (632) -- Little Blair Valley CP (629) -- Piedras Grandes CP (608) -- Santa Rosa Mountains SW (627) -- Southern Overland Trail CP (609) -- We-Nelsch CP (626) Armstrong Redwoods SNR (208) Arthur B. Ripley Desert Woodland SP (595) Asilomar SB (436) -- Asilomar Dunes NP (993) Auburn SRA (398) Austin Creek SRA (245) Azalea SNR (109) Bale Grist Mill SHP (251) Bean Hollow SB (266) Benbow Lake SRA (123) Benicia Capitol SHP (221) Benicia SRA (224) -- Southampton Bay Wetland NP (981) Bethany Reservoir SRA (744) Bidwell Mansion SHP (139) Bidwell-Sacramento River SP (163) Big Basin Redwoods SP (406) -- Theodore J. Hoover NP (958) -- West Waddell Creek SW (908) Big Rock Beach (510) Bodie SHP (324) Bolsa Chica SB (534) Border Field SP (669) -- Tijuana Estuary NP (972) Bothe-Napa Valley SP (240) Brannan Island SRA (314) Burleigh H. Murray Ranch (285) Burton Creek SP (348) -- Antone Meadows NP (365) -- Burton Creek NP (364) Butano SP (423) Butte City Project (121) CA State Mining &amp; Mineral Museum (707) Calaveras Big Trees SP (306) -- Calaveras South Grove NP (305) California Citrus SHP (570) California Indian Heritage Center (672) California State Capitol Museum (357) Cambria State Marine Park (401) Candlestick Point SRA (214) Cardiff SB (621) Carlsbad SB (612) Carmel River SB (437) -- Carmel River Lagoon and Wetlands NP (971) -- Ohlone Coastal CP (973) Carnegie SVRA (272) Carpinteria SB (514) Caspar Headlands SB (161) Caspar Headlands SNR (160) Castaic Lake SRA (569) Castle Crags SP (124) Castle Rock SP (404) -- San Lorenzo Headwaters NP (985) Castro Adobe (434) Caswell Memorial SP (316) Cayucos SB (452) China Camp SP (202) Chino Hills SP (508) -- Water Canyon NP (984) Chumash Painted Cave SHP (525) Clay Pit SVRA (155) Clear Lake SP (218) Colonel Allensworth SHP (341) Columbia SHP (307) Colusa-Sacramento River SRA (140) Corona del Mar SB (532) Crystal Cove SP (594) Cuyamaca Rancho SP (618) -- Ah-Ha-Kwe-Ah-Mac/Stonewall Mine CP (909) -- Cuish-Cuish (East Mesa) CP (961) -- Cuyamaca Meadow NP (980) -- Cuyamaca Mountain SW (906) -- Kumeyaay Soapstone CP (962) -- Pilcha (West Mesa) CP (959) D.L. Bliss SP (303) Del Norte Coast Redwoods SP (103) Delta Meadows (338) -- Locke Boarding House (332) Desert Cahuilla/Freeman Project (625) Dockweiler SB (541) Doheny SB (610) Donner Memorial SP (301) Drum Barracks (576) Ed Z'berg Sugar Pine Point SP (339) -- Edwin L. Z'berg NP (342) El Capitan SB (519) El Presidio de Santa Barbara SHP (575) Emerald Bay SP (313) Emeryville Crescent (225) Emma Wood SB (530) Empire Mine SHP (383) Estero Bluffs SP (749) Folsom Lake SRA (318) -- Anderson Island NP (397) -- Mormon Island Wetlands NP (946) Folsom Powerhouse SHP (370) Fort Humboldt SHP (120) Fort Ord Dunes SP (476) Fort Ross SHP (207) Fort Tejon SHP (351) Franks Tract SRA (329) Fremont Peak SP (412) Garrapata SP (467) Gaviota SP (542) George J. Hatfield SRA (312) Governor's Mansion SHP (377) Gray Whale Cove SB (270) Great Valley Grasslands SP (352) Greenwood SB (165) Grizzly Creek Redwoods SP (110) Grover Hot Springs SP (322) Half Moon Bay SB (277) Harmony Headlands SP (745) Harry A. Merlo SRA (136) -- Big Lagoon Forest, East NP (964) -- Big Lagoon Forest, South NP (966) -- Big Lagoon Forest, West NP (965) Hatton Canyon (435) Hearst San Simeon SHM (494) Hearst San Simeon SP (487) -- Pa-nu CP (989) -- San Simeon NP (979) -- Santa Rosa Creek NP (978) Heber Dunes SVRA (444) Heilbron Mansion Hendy Woods SP (148) Henry Cowell Redwoods SP (418) Henry W. Coe SP (432) -- Henry W. Coe SW (969) Hollister Hills SVRA (244) Humboldt Lagoons SP (105) Humboldt Redwoods SP (119) -- Bull Creek SW (957) -- Carl "A" Anderson Redwoods NP (956) Hungry Valley SVRA (521) -- Freeman Canyon CP (920) -- Gorman CP (919) -- Hungry Valley Oak Woodland NP (967) -- Tatavium CP (968) Huntington SB (564) -- Least Tern NP (988) Indian Grinding Rock SHP (373) Indio Hills Palms (646) Jack London SHP (241) Jedediah Smith Redwoods SP (102) -- Redwood Heritage SW (987) John B. Dewitt Redwoods SNR (137) John Little SNR (438) Jug Handle SNR (154) Julia Pfeiffer Burns SP (462) Kenneth Hahn SRA (516) Kings Beach SRA (343) Kruse Rhododendron SNR (206) La Purísima Mission SHP (513) Lake Del Valle SRA (764) Lake Oroville SRA (151) Lake Perris SRA (665) Lake Valley SRA (382) Las Tunas SB (544) Leland Stanford Mansion SHP (328) Leo Carrillo SP (540) -- Nicholas Flat NP (983) Leucadia SB (634) Lighthouse Field SB (474) Limekiln SP (461) -- Limekiln SW (463) Little River SB (108) Los Angeles SHP (578) Los Encinos SHP (546) Los Osos Oaks SNR (746) MacKerricher SP (146) -- Inglenook Fen-Ten Mile Dunes NP (949) Mailliard Redwoods SNR (149) Malakoff Diggins SHP (356) Malibu Creek SP (537) -- Kaslow NP (903) -- Liberty Canyon NP (902) -- Udell Gorge NP (907) Malibu Lagoon SB (548) Manchester SP (147) -- Arena Rock Marine NP (930) -- Brush Creek/Lagoon Lake Wetlands and Coastal Dunes NP (947) -- Lake Davis Wetlands and Coastal Dunes NP (948) Mandalay SB (676) Manhattan SB (549) Manresa SB (416) Marconi Conference Center SHP (213) Marina SB (479) -- Marina Dunes NP (932) Marshall Gold Discovery SHP (304) Marsh Creek State Park (SHP) (254) [was John Marsh Home SHP] Martial Cottle Park (229) McArthur-Burney Falls Memorial SP (125) McConnell SRA (310) McGrath SB (567) -- Santa Clara Estuary NP (568) McLaughlin East Shore State Park (SS) (220) [was Eastshore SP (SS)] Mendocino Headlands SP (158) Mendocino Woodlands SP (159) Millerton Lake SRA (378) -- Kechaye CP (904) Mono Lake Tufa SNR (366) Montaña de Oro SP (441) -- Morro Dunes NP (975) Montara SB (278) Monterey SB (460) Monterey SHP (455) Montgomery Woods SNR (143) Moonlight SB (638) Morro Bay SP (443) -- Heron Rookery NP (471) -- Morro Estuary NP (974) -- Morro Rock NP (445) Morro Strand SB (442) Moss Landing SB (454) Mount Diablo SP (203) -- Civilian Conservation Corps CP (977) Mount San Jacinto SP (616) -- Hidden Divide NP (960) -- Mount San Jacinto SW (619) Mount Tamalpais SP (239) Natural Bridges SB (407) -- Monarch Butterfly NP (924) -- Moore Creek Wetlands NP (976) Navarro River Redwoods SP (144) New Brighton SB (408) Oceano Dunes SVRA (264) Ocotillo Wells SVRA (439) -- Barrel Springs CP (963) Old Sacramento SHP (372) Old Town San Diego SHP (667) Olompali SHP (201) Pacheco SP (369) Pacifica SB (230) Palomar Mountain SP (617) -- Doane Valley NP (675) Pan Pacific Park (502) Patrick's Point SP (106) Pelican SB (101) Pescadero SB (227) -- Pescadero Marsh NP (283) Petaluma Adobe SHP (219) Pfeiffer Big Sur SP (448) Picacho SRA (658) Pigeon Point Light Station SHP (281) Pío Pico SHP (551) Pismo SB (446) -- Pismo Dunes NP (459) Placerita Canyon SP (552) Plumas-Eureka SP (321) Point Cabrillo Light Station SHP (166) Point Dume SB (533) -- Point Dume NP (991) Point Lobos Ranch (440) Point Lobos SNR (449) Point Montara Light Station (282)[divested] Point Mugu SP (573) -- Boney Mountain SW (901) -- La Jolla Valley NP (571) Point Sal SB (535) Point Sur SHP (419) -- Point Sur Dunes NP (992) Pomponio SB (226) Portola Redwoods SP (405) Prairie City SVRA (367) Prairie Creek Redwoods SP (104) -- Murrelet SW (986) Providence Mountains SRA (538) -- Mitchell Caverns NP (531) Railtown 1897 SHP (335) Red Rock Canyon SP (577) -- Hagen Canyon NP (583) -- Red Cliffs NP (585) Refugio SB (527) Reynolds WC (131) Richardson Grove SP (116) Rio de Los Angeles SP (563) Robert H. Meyer Memorial SB (590) Robert Louis Stevenson SP (215) Robert W. Crown Memorial SB (258) Russian Gulch SP (141) Saddleback Butte SP (543) Salinas River SB (451) -- Salinas River Dunes NP (931) -- Salinas River Mouth NP (933) Salt Point SP (248) Salton Sea SRA (623) Samuel P. Taylor SP (233) San Bruno Mountain SP (205) San Buenaventura SB (515) San Clemente SB (611) San Elijo SB (654) San Gregorio SB (273) San Juan Bautista SHP (411) San Luis Reservoir SRA (333) San Onofre SB (663) -- Trestles Wetlands NP (923) San Pasqual Battlefield SHP (615) San Timoteo Canyon (506) Santa Cruz Mission SHP (433) Santa Ines Mission Mill (509) Santa Monica SB (557) Santa Susana Pass SHP (505) Schooner Gulch SB (164) Seacliff SB (409) Seccombe Lake SURA (598) Shasta SHP (126) Silver Strand SB (614) -- Silver Strand NP (921) Silverwood Lake SRA (592) Sinkyone Wilderness SP (133) -- Sinkyone SW (994) Smithe Redwoods SNR (130) Sonoma Coast SP (209) Sonoma SHP (243) South Carlsbad SB (652) South Yuba River SP (359) Standish-Hickey SRA (117) State Indian Museum (SHP) (309) Stillwater Cove (249) Stone Lake (355) Sugarloaf Ridge SP (247) Sunset SB (410) -- Sunset Wetlands NP (939) Sutter Buttes SP (132)(name not yet official) Sutter's Fort SHP (308) Tahoe SRA (302) The Forest of Nisene Marks SP (465) Thornton SB (275) Tolowa Dunes SP (134) Tomales Bay SP (237) Tomo-Kahni SHP (368) Topanga SP (572) -- Topanga CP (582) Torrey Pines SB (631) Torrey Pines SNR (630) -- Ellen Browning Scripps NP (633) -- Los Penasquitos Marsh NP (640) Trinidad SB (107) Tule Elk SNR (350) Turlock Lake SRA (311) Twin Lakes SB (422) Van Damme SP (142) -- Van Damme Pygmy Forest NP (982) Verdugo Mountains (597) Ward Creek (349) Washoe Meadows SP (390) Wassama Round House SHP (376) Watts Towers of Simon Rodia SHP (518) Weaverville Joss House SHP (127) Westport-Union Landing SB (150) Wilder Ranch SP (456) -- Wilder Beach NP (466) -- Wilder Dairy CP (464) Wildwood Canyon (507) Will Rogers SB (562) Will Rogers SHP (559) William B. Ide Adobe SHP (128) Woodland Opera House SHP (327) Woodson Bridge SRA (129) -- Woodson Bridge NP (122) Zmudowski SB (450) -- Pajaro River Mouth NP (934) ==end of list; source: CSP Intranet; Last accessed 2016.03.29</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>20150701</begdate>
+          <enddate>20160630</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Continually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-124.268395</westbc>
+        <eastbc>-113.910551</eastbc>
+        <northbc>42.064063</northbc>
+        <southbc>32.442290</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>state park unit name</themekey>
+        <themekey>state park subunit name</themekey>
+        <themekey>boundary</themekey>
+        <themekey>state park classification</themekey>
+        <themekey>park</themekey>
+        <themekey>state park management designation</themekey>
+      </theme>
+      <theme>
+        <themekt>California State Parks</themekt>
+        <themekey>special use area boundaries</themekey>
+        <themekey>wilderness</themekey>
+        <themekey>operational boundaries</themekey>
+        <themekey>California State Park System</themekey>
+        <themekey>cooperative management area boundaries</themekey>
+        <themekey>California State Parks</themekey>
+        <themekey>parks</themekey>
+        <themekey>education</themekey>
+        <themekey>CA State Parks</themekey>
+        <themekey>subunit boundaries</themekey>
+        <themekey>State Parks</themekey>
+        <themekey>interpretation</themekey>
+        <themekey>unit boundaries</themekey>
+        <themekey>outdoor recreation</themekey>
+        <themekey>biological diversity</themekey>
+        <themekey>protected areas</themekey>
+        <themekey>cultural resources</themekey>
+        <themekey>recreation</themekey>
+        <themekey>natural resources</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>planningCadastre</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>California Department of Parks and Recreation</placekt>
+        <placekey>California State Parks</placekey>
+        <placekey>California</placekey>
+        <placekey>California State Park System</placekey>
+      </place>
+      <stratum>
+        <stratkt>None</stratkt>
+        <stratkey>subaerial</stratkey>
+      </stratum>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2016</tempkey>
+        <tempkey>2015</tempkey>
+      </temporal>
+      <temporal>
+        <tempkt>State of California</tempkt>
+        <tempkey>FY 2015/2016</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Copyright ©2014, 2015, 2016 California State Parks, all rights reserved. For permission, email geodata@parks.ca.gov. All materials contained herein are protected by the United States Copyright Law and may not be reproduced, shared, sold, distributed, transmitted, displayed, repackaged, published or otherwise transferred without the prior written permission of California State Parks. You may not alter or remove any trademark, copyright or other notice from copies of the content. This material is provided for your personal, non-commercial use only. Data Disclaimer: "Every reasonable effort has been made to assure the accuracy of the data provided, however, California State Parks and its employees and agents disclaim any and all responsibility from or relating to any results obtained in its use. The GIS database and data in the product are subject to change and the accuracy and completeness cannot be and is not guaranteed. CALIFORNIA STATE PARKS MAKES NO WARRANTIES OR GUARANTEES, EITHER EXPRESSED OR IMPLIED AS TO THE COMPLETENESS, ACCURACY, OR CORRECTNESS OF SUCH PRODUCT, NOR ACCEPTS ANY LIABILITY, ARISING FROM ANY INCORRECT, INCOMPLETE OR MISLEADING INFORMATION CONTAINED THEREIN.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>California State Parks, Acquisitions &amp; Real Property Services Division, Surveys Section</cntorg>
+          <cntper>Stanley King</cntper>
+        </cntorgp>
+        <cntpos>Land Surveyor</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>One Capitol Mall, Suite 410</address>
+          <city>Sacramento</city>
+          <state>CA</state>
+          <postal>95814</postal>
+        </cntaddr>
+        <cntemail>Paul.Veisze@parks.ca.gov</cntemail>
+        <cntemail>Stanley.King@parks.ca.gov</cntemail>
+        <cntinst>California State Parks (CSP) are also known as the California Department of Parks and Recreation (DPR). Contact the CSP Surveys Section for property boundary matters; contact the CSP Enterprise GIS Team for technical, geospatial matters.</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <datacred>California State Parks: Northern Service Center; Acquisition and Real Property Services Division; Surveys Section; Marketing and Business Development Division (formerly Planning Division); Facilities Management Division; Enterprise Geographic Information Systems Team.</datacred>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native> Version 6.2 (Build 9200) ; Esri ArcGIS 10.3.1.4959</native>
+    <crossref>
+      <citeinfo>
+        <origin>Callifornia State Parks Marketing and Business Development Division</origin>
+        <pubdate>20130701</pubdate>
+        <title>California State Parks Sytem (Map of July 1, 2013)</title>
+        <geoform>map</geoform>
+        <othercit>CSP park boundaries are available as downloadable data at &lt;web link&gt; &lt;under revision&gt; California State Parks (CSP) are also known as the California Department of Parks and Recreation (DPR). Monitor www.parks.ca.gov for the latest information about California State Parks.</othercit>
+        <onlink>&lt;web link&gt; &lt;under revision&gt;</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>California State Parks Web Team</origin>
+        <title>California Department of Parks and Recreation Website</title>
+        <geoform>web site</geoform>
+        <othercit>State of California Department of Parks and Recreation (DPR) (also known as California State Parks (CSP))</othercit>
+        <onlink>http://www.parks.ca.gov</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>California State Parks Marketing and Business Development Division</origin>
+        <pubdate>20130101</pubdate>
+        <title>Planning Milestones for the Park Units and Major Properties Associated with the California State Park System</title>
+        <geoform>document</geoform>
+        <othercit>Digital document title "Planning Milestones" as posted at www.parks.ca.gov. Contains California State Park System statistics, park administrative names history, and related information (last accessed 2014.08.28).</othercit>
+        <onlink>http://www.parks.ca.gov/pages/795/files/planning milestones july 1, 2013 final internet.pdf</onlink>
+        <onlink>http://www.parks.ca.gov/?page_id=23239</onlink>
+      </citeinfo>
+    </crossref>
+    <crossref>
+      <citeinfo>
+        <origin>California Department of Parks and Recreation, Acquisitions &amp; Real Property Services Division, Surveys Section</origin>
+        <title>Land Ownership Records Map</title>
+        <geoform>map</geoform>
+        <othercit>Maps depict Management Parcel Acquisitions, dates, acreage. Easements and Appurtenances described, Land Disposals indicated.</othercit>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Each polygon has attributes of unique CSP Unit and Subunit names and administrative codes, management status codes, and system-generated (not official), approximate acreages. CSP names and codes were compiled with the best available information and are in effect beginning in the fiscal year of their release. CSP unit classifications, names, management status, and codes are subject to change.</attraccr>
+    </attracc>
+    <logic>The Operational Boundary (Opbdys) is a logical construction based on parcel ownership/management information maintained by the Division (was Office) of Acquisition and Real Property Services Division. In geodatabase implementation, the feature class Opbdys participates in a topology with the feature MgmtParcels. A new feature StPrkMgmtParcels is used to update the MgmtParcels feature with the "best available information", including easemetns and appurtenances generated by Acquisions and Real Property Services Divions in the form of AutoCad Map based Land Ownership Records. Enterprise GIS Team synchronizes bounaries with the Land Ownership Records (LOR) in AutoCad MAP format. The publicly downloadable version of the boundaries dataset is a commonly used subset of the above. This dataset does not represent official or legal property boundary determinations or descriptions and is under continuous revision and subject to change without notice. Copyright 2008, 2012 California State Parks. All rights reserved.</logic>
+    <complete>All major Units and Properties of the California State Park System are represented in this dataset. Disclaimer: This version of California State Park (CSP) boundaries does not represent official or legal boundary determinations or descriptions. Maps derived from the GIS version are intended for general reference, planning, and/or study purposes. A quality assurance / quality control (QA/QC) report or formal completeness and accuracy assessment has not been completed on this dataset. CSP names, codes, and management designations are in effect beginning in the State of California Fiscal Year of their release. Boundaries are in continual revision and are subject to change. Consult the CSP Surveys Section for the most current boundary information; contact the Enterprise GIS Team for technical, geospatial matters. Monitor www.parks.ca.gov for the latest general information about California State Parks.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>A formal accuracy assessment was not performed. CSP boundary horizontal accuracy is estimated to be consistent with that of 1:24000-scale USGS quads.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>No vertical (elevation) data are included in this dataset. California State Park elevations range from a low of 230 feet below sea level in the Salton Sea State Recreation Area (SRA), to sea-level in State Beaches (SB) and related properties, to a high of 10,804 feet on the summit of Mount San Jacinto in Mount San Jacinto State Park (SP).</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srcscale>0</srcscale>
+        <typesrc>None</typesrc>
+        <srccontr>Individual county datasets and statewide data collections. Land acquisitions based on parcels.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srcscale>0</srcscale>
+        <typesrc>None</typesrc>
+        <srccontr>Parcel boundary delineations and documentation from the CSP Surveys Section</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srcscale>24000</srcscale>
+        <typesrc>None</typesrc>
+        <srccontr>Nominal and historical representations of CSP unit boundaries compiled by the U.S. Geological Survey</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The shapefile version of California State Parks boundaries is produced by dissolving one to many parcels comprising a park unit or subunit into a single, multi-part polygon record that represents combinations of park classifications and management status. See classification abbreviations in the Supplemental_Information section of this metadata.</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>California State Parks</cntorg>
+              <cntper>CSP Enterprise GIS Team</cntper>
+            </cntorgp>
+            <cntpos>GIS Specialist</cntpos>
+            <cntemail>Alan.Kilgore@parks.ca.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Unit names within the California State Park System, feature class designations (park, reserve), and geographic point coordinates were reconciled with the USGS Geographic Names Information System (http://geonames.usgs.gov). The above information is in continual revision. Monitor www.parks.ca.gov for the latest information about California State Parks.</procdesc>
+        <srcused>USGS GNIS</srcused>
+        <procdate>20120312</procdate>
+        <srcprod>California State Park System Unit Names</srcprod>
+      </procstep>
+      <procstep>
+        <procdesc>The GIS versions of CSP boundary polygons do not represent official or legal boundary determinations or descriptions. The polygons are assembled by the CSP Enterprise GIS Team from the best available sources, including CSP Surveys Section data, County Assessor parcel data, historical departmental Land Ownership Record Maps, and USGS quads in both digital and hardcopy. The CSP Enterprise GIS Team converts the source data into digital geospatial data in shapefile, enterprise geodatabase, and Google Earth KMZ formats. Selected subsets of the data are compressed into ZIP format and posted on a public download site. Download content is subject to change. Monitor www.parks.ca.gov for the latest information about California State Parks.</procdesc>
+        <procdate>20140829</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>California State Parks</cntorg>
+              <cntper>Alan Kilgore</cntper>
+            </cntorgp>
+            <cntpos>GIS Specialist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical</addrtype>
+              <address>Facilities Management Division</address>
+              <address>704 O St</address>
+              <address>Enterprise GIS</address>
+              <address>Road and Trail Program</address>
+              <city>Sacramento</city>
+              <state>CA</state>
+              <postal>95814</postal>
+              <country>US</country>
+            </cntaddr>
+            <cntemail>Alan.Kilgore@parks.ca.gov</cntemail>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>454</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 California Teale Albers</mapprojn>
+          <albers>
+            <stdparll>34.0</stdparll>
+            <stdparll>40.5</stdparll>
+            <longcm>-120.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>-4000000.0</fnorth>
+          </albers>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000003754707655900803</absres>
+            <ordres>0.000000003754707655900803</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>caStPrkBdys2016e</enttypl>
+        <enttypd>State Park Operational Boundaries</enttypd>
+        <enttypds>California State Parks</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GISACRES</attrlabl>
+        <attrdef>Convert shape.area to acres.</attrdef>
+        <attrdefs>Cal State Parks</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>UNITNAME</attrlabl>
+        <attrdef>Park Unit Name</attrdef>
+        <attrdefs>California State Parks Commission</attrdefs>
+        <attrdomv>
+          <udom>Unit Names as determined by the California State Parks Commission</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MgmtStatus</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>County</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>StreetAdr</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>City</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>Zip</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LAT</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LON</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>latLonCntr</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RevDate</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ParkWebPg</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>mapType1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>mapLink1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>mapType2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>mapLink2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>mapType3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>mapLink3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>mapType4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>mapLink4</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>UnitNum_1</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Download from http://www.parks.ca.gov/?page_id=862</resdesc>
+    <distliab>See access and use constraints information.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>ArcGis</formname>
+          <formvern>ArcGIS 10.3.1</formvern>
+          <formspec>personal geodatabase or shapefile</formspec>
+        </digtinfo>
+      </digform>
+      <fees>None</fees>
+      <ordering>Download from http://www.parks.ca.gov/?page_id=862</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20160414</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>California State Parks -</cntorg>
+          <cntper>Paul Veisze</cntper>
+        </cntorgp>
+        <cntpos>Geographic Information Officer</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Facilities Management Division</address>
+          <address>Enterprise GIS</address>
+          <address>704 O St</address>
+          <address>Road and Trail Program</address>
+          <address>California State Parks</address>
+          <city>Sacramento</city>
+          <state>CA</state>
+          <postal>95814</postal>
+        </cntaddr>
+        <cntfax>(916) 445-7988</cntfax>
+        <cntemail>Paul.Veisze@parks.ca.gov</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>
